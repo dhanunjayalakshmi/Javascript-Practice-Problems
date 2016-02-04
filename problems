@@ -1,0 +1,38 @@
+-Write a program that prints ‘Hello World’ to the screen.
+-Write a program that asks the user for her name and greets her with her name.
+-Modify the previous program such that only the users Alice and Bob are greeted with their names.
+
+- Write a function that takes a number n as argument and prints the sum of the numbers 1 to n
+Eg: sum(20)
+      => 210
+- Modify the function such that only multiples of three or five, but not both are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 18 for n=19
+Eg: special_sun(19)
+      => 63
+- Write a function that takes a number 'n' as argument and prints a multiplication table for 'n' up to 12.
+Eg: multiplication_table(3)
+      =>
+        3X 1=3
+        3X 2=6
+        3X 3=9
+        3X 4=12
+        3X 5=15
+        3X 6=18
+        3X 7=21
+        3X 8=24
+        3X 9=27
+        3X10=30
+        3X11=33
+        3X12=36
+- Write a function that takes a four digit year number as input and prints the next 100 leap years from the given year.
+- Given a sentence, reverse all words of the sentence. Try to do it using minimum lines of code, using high level string methods provided by language.
+Eg: reverse_words(“This is a cat”)
+      => “sihT si a tac”
+- Write a function that takes a number and prints all of its digits, one per line, starting from left to right. (Without using string methods)
+Eg: print_digits(235)
+      =>
+        2
+        3
+        5
+- Write a function that takes a number as input and prints the number in words. (Assume that the input is in the range 1 to 999,999,999; both inclusive)
+Eg: print_number(235)
+      => Two Hundred and Thirty Five
